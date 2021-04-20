@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, my name is Cuong and I am a front-end developer with one years of experience working as a Software Engineer at [NextPay Company](https://www.nextpay.vn/) My technology stack involves PHP, Yii, Dart, MySQL, javascript, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music and reading book.
 
-- 🔭 Some framework: Vuejs, Angular, NuxtJs, Flutter
+- 🔭 Some framework: Laravel, Angular, Vuejs, NuxtJs, Flutter
 - 💬 Brainstorm with me over tech, algorithms, agile, mindmap and music, or book?
 - 📫 How to reach me: cuong6218@gmail.com
 - 😄 Pronouns: Programmer/He/His
